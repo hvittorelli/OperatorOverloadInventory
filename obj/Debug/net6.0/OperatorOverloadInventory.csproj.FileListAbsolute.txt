@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\bin\Debug\net6.0\OperatorOverloadInventory.exe
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\bin\Debug\net6.0\OperatorOverloadInventory.deps.json
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\bin\Debug\net6.0\OperatorOverloadInventory.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\bin\Debug\net6.0\OperatorOverloadInventory.dll
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\bin\Debug\net6.0\OperatorOverloadInventory.pdb
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\obj\Debug\net6.0\OperatorOverloadInventory.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\obj\Debug\net6.0\OperatorOverloadInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\obj\Debug\net6.0\OperatorOverloadInventory.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\obj\Debug\net6.0\OperatorOverloadInventory.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\obj\Debug\net6.0\OperatorOverloadInventory.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\obj\Debug\net6.0\OperatorOverloadInventory.dll
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\obj\Debug\net6.0\refint\OperatorOverloadInventory.dll
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\obj\Debug\net6.0\OperatorOverloadInventory.pdb
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\obj\Debug\net6.0\OperatorOverloadInventory.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadInventory\OperatorOverloadInventory\obj\Debug\net6.0\ref\OperatorOverloadInventory.dll
